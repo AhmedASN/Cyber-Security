@@ -1,2 +1,2 @@
 # Cyber-Security
-Solutions to some Ethical Hacking Challenges.
+My Solutions to lab class "Ethical Hacking" challenges at **École polytechnique**.
